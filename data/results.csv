@@ -1,0 +1,11 @@
+system,correction_level,E_complex_Eh,E_drug_Eh,E_GO_Eh,binding_energy_kcal_mol,notes
+curcumin_GO,raw_B3LYP,-2028.503279730454,-1262.811416329396,-765.672850361279,-11.93,"Relaxed monomers; no BSSE or dispersion correction"
+curcumin_GO,BSSE_only,-2028.503279730454,-1262.811969681581,-765.676941606042,-9.02,"Counterpoise-corrected (dimer-centered basis, frozen complex geometry)"
+curcumin_GO,D3BJ_only,-2028.682923549915,-1262.904800351234,-765.741319589730,-23.09,"Grimme D3(BJ) dispersion added; no BSSE correction"
+curcumin_GO,BSSE_plus_D3BJ,-2028.682923549915,-1262.904802623727,-765.745425553401,-20.52,"Most rigorous gas-phase estimate: CP-corrected + D3BJ dispersion"
+curcumin_GO,D3BJ_plus_SMD_water,-2028.726442403526,-1262.940200582616,-765.758434851711,-17.45,"Aqueous single point (SMD implicit water) on gas-phase geometry + D3BJ; not combined with BSSE"
+doxorubicin_GO,raw_B3LYP,-2693.098854921872,-1927.418930855389,-765.672850361279,-4.44,"Relaxed monomers; no BSSE or dispersion correction"
+doxorubicin_GO,BSSE_only,-2693.098854921872,-1927.425242556434,-765.673850969696,0.15,"Counterpoise-corrected; near-zero/artifactual without dispersion"
+doxorubicin_GO,D3BJ_only,-2693.342293461458,-1927.579069129497,-765.741319589730,-13.75,"Grimme D3(BJ) dispersion added; no BSSE correction"
+doxorubicin_GO,BSSE_plus_D3BJ,-2693.342293461458,-1927.585224010440,-765.742356779459,-9.23,"Most rigorous gas-phase estimate: CP-corrected + D3BJ dispersion"
+doxorubicin_GO,D3BJ_plus_SMD_water,-2693.406550979215,-1927.627141960649,-765.758434851711,-13.16,"Aqueous single point (SMD implicit water) on gas-phase geometry + D3BJ; not combined with BSSE"
