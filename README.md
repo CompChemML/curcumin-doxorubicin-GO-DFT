@@ -6,7 +6,7 @@ nanocarrier, computed with DFT (B3LYP/6-31G*, ORCA 6.1.1) and refined across
 five levels of correction: geometry optimization, BSSE (counterpoise),
 D3BJ dispersion, their combination, and implicit aqueous solvation.
 
-**Live interactive dashboard:** https://sareer555.github.io/curcumin-doxorubicin-GO-DFT/ (public, no sign-in needed) &mdash; full binding-energy chart, molecule/complex visualizations, and methodology notes. A copy also lives at `docs/dashboard.html`.
+**Live interactive dashboard:** https://CompChemML.github.io/curcumin-doxorubicin-GO-DFT/ (public, no sign-in needed) &mdash; full binding-energy chart, molecule/complex visualizations, and methodology notes. A copy also lives at `docs/dashboard.html`.
 
 ## Headline result
 
